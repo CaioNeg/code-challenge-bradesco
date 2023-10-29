@@ -1,0 +1,4 @@
+br/com/cn/controller/ProductControllerTest.class
+br/com/cn/rest/ProductClientTest.class
+br/com/cn/mock/ProductFactoryMock.class
+br/com/cn/CodeChallengeBradescoApplicationTests.class

@@ -1,0 +1,8 @@
+br/com/cn/CodeChallengeBradescoApplication.class
+br/com/cn/exception/ResourceNotFoundException.class
+br/com/cn/controller/ProductController.class
+br/com/cn/exception/GlobalExceptionHandler.class
+br/com/cn/rest/ProductClient.class
+br/com/cn/dto/ProductResponse.class
+br/com/cn/dto/ProductResponseList.class
+br/com/cn/config/SwaggerConfig.class

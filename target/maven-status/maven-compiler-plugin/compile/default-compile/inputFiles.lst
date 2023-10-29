@@ -1,0 +1,8 @@
+/Users/caionegrao/Projects/code-challenge-bradesco/src/main/java/br/com/cn/controller/ProductController.java
+/Users/caionegrao/Projects/code-challenge-bradesco/src/main/java/br/com/cn/CodeChallengeBradescoApplication.java
+/Users/caionegrao/Projects/code-challenge-bradesco/src/main/java/br/com/cn/dto/ProductResponseList.java
+/Users/caionegrao/Projects/code-challenge-bradesco/src/main/java/br/com/cn/exception/ResourceNotFoundException.java
+/Users/caionegrao/Projects/code-challenge-bradesco/src/main/java/br/com/cn/exception/GlobalExceptionHandler.java
+/Users/caionegrao/Projects/code-challenge-bradesco/src/main/java/br/com/cn/dto/ProductResponse.java
+/Users/caionegrao/Projects/code-challenge-bradesco/src/main/java/br/com/cn/rest/ProductClient.java
+/Users/caionegrao/Projects/code-challenge-bradesco/src/main/java/br/com/cn/config/SwaggerConfig.java
